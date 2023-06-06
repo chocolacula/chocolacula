@@ -8,6 +8,7 @@ AWS certified developer,
 Take a look at awesome C++ reflection in my repos and don't hesitate to put a ‚≠ê.
 
 [![visit](https://visitcount.itsvg.in/api?id=chocolacula&icon=5&color=0)](https://visitcount.itsvg.in)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mvolloshin)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mvolloshin)
 [![Telegram](https://img.shields.io/badge/Telegram-919499?style=flat-square&logo=Telegram)](https://t.me/mvolloshin)
@@ -22,7 +23,7 @@ Take a look at awesome C++ reflection in my repos and don't hesitate to put a ‚≠
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)
 ![Java](https://img.shields.io/badge/java-d4333b?style=flat-square&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-ebedf2?style=flat-square&logo=apachekafka&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Kafka-ebedf2?style=flat-square&logo=apachekafka&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4969ba?style=flat-square&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)

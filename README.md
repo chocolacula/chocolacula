@@ -2,7 +2,7 @@
 
 I'm a contractor at Bloomberg.
 
-Love mentor people, make developers' lifes simpler, become harder better faster stronger
+Love mentor people, make developers' lifes simpler, become harder better faster stronger.  
 AWS certified developer,
 
 Take a look at awesome C++ reflection in my repos and don't hesitate to put a ⭐.

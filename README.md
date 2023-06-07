@@ -12,6 +12,7 @@ Take a look at awesome C++ reflection in my repos and don't hesitate to put a тн
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mvolloshin)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mvolloshin)
 [![Telegram](https://img.shields.io/badge/Telegram-%2348b0f7.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mvolloshin)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=mvolloshin@gmail.com)
 
 ## Tech Stack
 

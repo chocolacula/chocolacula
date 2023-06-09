@@ -7,12 +7,7 @@ Love make developers' lifes simpler, become harder better faster stronger.
 
 Take a look at awesome C++ reflection in my repos and don't hesitate to put a ‚≠ê.
 
-[![visit](https://visitcount.itsvg.in/api?id=chocolacula&icon=5&color=0)](https://visitcount.itsvg.in)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mvolloshin)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mvolloshin)
-[![Telegram](https://img.shields.io/badge/Telegram-%2348b0f7.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mvolloshin)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=mvolloshin@gmail.com)
+![Stats](https://github-readme-stats.vercel.app/api?username=chocolacula&theme=dark&hide_rank=true&hide_title=true&hide_border=true&show_icons=true&count_private=true)  
 
 ## Tech Stack
 
@@ -35,11 +30,6 @@ Take a look at awesome C++ reflection in my repos and don't hesitate to put a ‚≠
 ![CMake](https://img.shields.io/badge/CMake-%23141d99.svg?style=flat-square&logo=cmake&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%2344aa44.svg?style=flat-square&logo=swagger&logoColor=white)
 
-## GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=chocolacula&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=chocolacula&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ## LeetCode
 
 ![Leetcode](https://leetcard.jacoblin.cool/chocolacula?ext=heatmap)
@@ -47,5 +37,10 @@ Take a look at awesome C++ reflection in my repos and don't hesitate to put a ‚≠
 ## Latest Tweet üê¶
 
 [![Tweet](https://gtce.itsvg.in/api?username=mvolloshin&icon=sparkles)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mvolloshin)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mvolloshin)
+[![Telegram](https://img.shields.io/badge/Telegram-%2348b0f7.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mvolloshin)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=mvolloshin@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

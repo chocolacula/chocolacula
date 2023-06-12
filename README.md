@@ -33,11 +33,11 @@ Take a look at awesome C++ reflection in my repos and don't hesitate to put a â­
 ## LeetCode
 
 ![Leetcode](https://leetcard.jacoblin.cool/chocolacula?ext=heatmap)
-
+<!--
 ## Latest Tweet ðŸ¦
 
 [![Tweet](https://gtce.itsvg.in/api?username=mvolloshin&icon=sparkles)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mvolloshin)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mvolloshin)
 [![Telegram](https://img.shields.io/badge/Telegram-%2348b0f7.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mvolloshin)

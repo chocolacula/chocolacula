@@ -1,8 +1,6 @@
 # 💫 About Me
 
-I'm a contractor at Bloomberg.
-
-AWS certified developer, Software Engineering enthusiast, menthor.  
+AWS certified developer, Software Engineering maniac, menthor.  
 Love make developers' lifes simpler, become harder better faster stronger.  
 
 Take a look at awesome C++ reflection in my repos and don't hesitate to put a ⭐.

@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 AWS certified developer, Software Engineering maniac, menthor.  
 Love make developers' lifes simpler, become harder better faster stronger.  

@@ -1,7 +1,7 @@
 # About Me
 
-AWS certified developer, Software Engineering maniac, menthor.  
-Love make developers' lifes simpler, become harder better faster stronger.  
+AWS certified developer, Software Engineering maniac.  
+Make developers' lifes simpler, become and help become harder better faster stronger.  
 
 Take a look at awesome C++ reflection in my repos and don't hesitate to put a ‚≠ê.
 
@@ -18,7 +18,7 @@ Take a look at awesome C++ reflection in my repos and don't hesitate to put a ‚≠
 ![Java](https://img.shields.io/badge/Java-d4333b?style=flat-square&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-ebedf2?style=flat-square&logo=apachekafka&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4969ba?style=flat-square&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
